@@ -8,7 +8,8 @@
     
 ## 🔥 连胜统计
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=lxlfpeng&theme=tokyonight&hide_border=true" />
+    
+   <img src="https://streak-stats.demolab.com/?user=lxlfpeng&theme=tokyonight&hide_border=true" />
 </div>
 
 
