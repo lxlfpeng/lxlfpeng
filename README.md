@@ -21,11 +21,11 @@
     src="https://github-stats-extended.vercel.app/api?username=lxlfpeng"
   />
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=lxlfpeng&layout=compact&langs_count=8&card_width=320">
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=lxlfpeng&exclude_repo=lxlfpeng.github.io&layout=compact&card_width=320&langs_count=10">
   <img
     height="200"
     align="center"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=lxlfpeng&layout=compact&langs_count=8&card_width=320"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lxlfpeng&exclude_repo=lxlfpeng.github.io&layout=compact&card_width=320&langs_count=10"
   />
 </a>
 <br>
