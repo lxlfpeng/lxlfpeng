@@ -8,23 +8,34 @@
     
 ## 🔥 连胜统计
 <div align="center">
-    
    <img src="https://streak-stats.demolab.com/?user=lxlfpeng&theme=tokyonight&hide_border=true" />
 </div>
 
 
 <!-- GitHub数据统计 -->
 ## 😄 GitHub数据统计
-<div align="center">
-  <img height="137px" width="49%" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+<a href="https://github-stats-extended.vercel.app/api?username=lxlfpeng">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=lxlfpeng"
+  />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=lxlfpeng&layout=compact&langs_count=8&card_width=320">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=lxlfpeng&layout=compact&langs_count=8&card_width=320"
+  />
+</a>
 <br>
+
+<!--
 ## ⚡最近的 GitHub 活动
 <div align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxlfpeng&theme=xcode" /> 
 </div>
-
+-->
 
 
 <!--
